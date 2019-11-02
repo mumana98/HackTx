@@ -1,1 +1,1 @@
-<Route path="/login" exact component={./containers/Login}/>
+<Route path="/login" exact component={./components/Login}/>
